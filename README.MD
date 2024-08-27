@@ -25,9 +25,9 @@ Folder names are case sensitive and should be lower case. Files inside folders s
 
 ## CONTROLS
 
-Controls according to gptk file:
-LEFT ANALOG mouse control
-RIGHT ANALOG map scrolling
+Controls according to gptk file:  
+LEFT ANALOG mouse control  
+RIGHT ANALOG map scrolling  
 A   - mouse left  
 B   - mouse right  
 X   - end turn (E)  
