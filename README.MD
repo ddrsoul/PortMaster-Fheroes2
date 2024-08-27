@@ -28,19 +28,19 @@ Folder names are case sensitive and should be lower case. Files inside folders s
 Controls according to gptk file:
 LEFT ANALOG mouse control
 RIGHT ANALOG map scrolling
-A   - mouse left
-B   - mouse right
-X   - end turn (E)
-Y   - cast battle spell (C)
-L1  -  next hero (H)
-L2 - save game (S)
-L3 - view world (V)
-R1  - next town (T)
-R2 - load game (L)
-R3 - default action (SPACE)
-DPAD UP - 1
-DPAD RIGHT - 2
-DPAD DOWN - 3
-DPAD LEFT - 4
-START - ENTER
-SELECT -  ESC
+A   - mouse left  
+B   - mouse right  
+X   - end turn (E)  
+Y   - cast battle spell (C)  
+L1  -  next hero (H)  
+L2 - save game (S)  
+L3 - view world (V)  
+R1  - next town (T)  
+R2 - load game (L)  
+R3 - default action (SPACE)  
+DPAD UP - 1  
+DPAD RIGHT - 2  
+DPAD DOWN - 3  
+DPAD LEFT - 4  
+START - ENTER  
+SELECT -  ESC  
