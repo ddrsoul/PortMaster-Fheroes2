@@ -25,6 +25,8 @@ ln -sfv ${GAMEDIR}/conf/fheroes2/ ~/.config/
 $ESUDO rm -rf ~/.local/share/fheroes2
 ln -sfv ${GAMEDIR}/save/fheroes2/ ~/.local/share/
 
+export SDL_GAMECONTROLLERCONFIG="$sdl_controllerconfig"
+
 $ESUDO chmod 666 /dev/uinput
 cd $GAMEDIR/
 
